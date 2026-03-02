@@ -1,8 +1,7 @@
 <img align="right" src="https://komarev.com/ghpvc/?username=alex-dev5001&color=ff69b4"><br>
-<div align="center">
 
 ## Olá! Seja Bem Vindo! 👋
-<h3>Me chamo Alex, atualmente faço parte do grupo de estudantes em formação do sistema de ensino DevClub.<br></h3>
+<h3>Eu sou o Alex, atualmente faço parte do grupo de estudantes em formação do sistema de ensino DevClub, e aqui você pode acompanhar um pouco do meu desenvolvimento.<br></h3>
 <br>
 <b><i>💻 Desenvolvedor em formação.<br>
 🚀 Foco em evolução para Full Stack.<br>
@@ -11,3 +10,4 @@
 </b></i>
 <br>
 
+![Top Linguagens](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=alex-dev5001&theme=tokyonight)
