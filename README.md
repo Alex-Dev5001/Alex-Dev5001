@@ -1,7 +1,7 @@
 <img align="right" src="https://komarev.com/ghpvc/?username=alex-dev5001&color=ff69b4"><br>
 
 ## Olá! Seja Bem Vindo! 👋
-<h3>Eu sou o Alex, atualmente faço parte do grupo de estudantes em formação do sistema de ensino DevClub, e aqui você pode acompanhar um pouco do meu desenvolvimento.<br></h3>
+<h3>Me Alex, atualmente faço parte do grupo de estudantes em formação do sistema de ensino DevClub, e aqui você pode acompanhar um pouco do meu desenvolvimento.<br></h3>
 <br>
 <b><i>💻 Desenvolvedor em formação.<br>
 🚀 Foco em evolução para Full Stack.<br>
